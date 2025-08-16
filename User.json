@@ -144,8 +144,8 @@
         "Allowoffline": true
     },
     {
-        "device_id": "xxxxxxxxxxxxxxxx",
-        "key": "xxxxxxxxxxxxxxx",
+        "device_id": "000000000000000",
+        "key": "12345",
         "expirydate": "15-06-2035",
         "Allowoffline": false
     },
