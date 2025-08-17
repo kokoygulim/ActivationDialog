@@ -150,10 +150,10 @@
         "Allowoffline": false
     },
     {
-        "device_id": "xxxxxxxxxxxxxxxx",
-        "key": "xxxxxxxxxxxxxxx",
+        "device_id": "f121e23d2c57f9cc",
+        "key": "f121e23d2c57f9cc",
         "expirydate": "15-06-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "xxxxxxxxxxxxxxxx",
