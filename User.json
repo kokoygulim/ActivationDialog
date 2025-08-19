@@ -159,7 +159,7 @@
         "device_id": "deef6ffc33e56bfa",
         "key": "deef6ffc33e56bfa",
         "expirydate": "15-06-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "6ccfa5e1ead313df",
