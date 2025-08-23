@@ -186,10 +186,10 @@
         "Allowoffline": true
     },
     {
-        "device_id": "xxxxxxxxxxxxxxxx",
-        "key": "xxxxxxxxxxxxxxx",
-        "expirydate": "15-06-2035",
-        "Allowoffline": false
+        "device_id": "41357ab355557b02",
+        "key": "41357ab355557b02",
+        "expirydate": "25-08-2025",
+        "Allowoffline": true
     },
     {
         "device_id": "xxxxxxxxxxxxxxxx",
