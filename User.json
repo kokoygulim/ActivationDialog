@@ -258,6 +258,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "2d5b2422f7d98f4f",
+        "key": "2d5b2422f7d98f4f",
+        "expirydate": "01-09-2025",
+        "Allowoffline": true
+    },
+    {
         "device_id": "",
         "key": "key67890",
         "expirydate": "15-06-2035",
